@@ -26,7 +26,8 @@ pip install opencv-python-headless
 pip install https://download.pytorch.org/whl/cu111/torch-1.9.0%2Bcu111-cp39-cp39-linux_x86_64.whl
 
 # install vidio and deepethogram from my fork
-# the maintainer hasn't updated the setup.py yet so the "official" version is broken ¯\_(ツ)_/¯
+# the maintainer hasn't updated the setup.py to use opencv-python-headless
+# so the "official" version is broken ¯\_(ツ)_/¯
 pip install git+https://github.com/kushalkolar/vidio.git
 pip install git+https://github.com/kushalkolar/deepethogram.git
 ```

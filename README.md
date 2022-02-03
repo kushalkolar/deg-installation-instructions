@@ -22,7 +22,8 @@ pip install numpy cython
 pip install opencv-python-headless
 
 # install pytorch using this URL
-# the helper tool on the website doesn't give the right version ¯\_(ツ)_/¯
+# the helper tool on the website gives a broken URL
+# so I had to find it manually ¯\_(ツ)_/¯
 pip install https://download.pytorch.org/whl/cu111/torch-1.9.0%2Bcu111-cp39-cp39-linux_x86_64.whl
 
 # install vidio and deepethogram from my fork

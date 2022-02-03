@@ -34,3 +34,9 @@ pip install https://download.pytorch.org/whl/cu111/torch-1.9.0%2Bcu111-cp39-cp39
 pip install git+https://github.com/kushalkolar/vidio.git
 pip install git+https://github.com/kushalkolar/deepethogram.git
 ```
+
+Finally to launch deepethogram, after activating the environment:
+
+```
+deepethogram
+```

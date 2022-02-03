@@ -2,6 +2,8 @@
 
 Tested on Ubuntu 21.04 with CUDA version 11.4 and nvidia driver 470.86
 
+If you don't know what you're doing just copy paste this entire block into the terminal.
+
 ```
 # Create a venv
 python3 -m venv /share/python-venvs/deg
